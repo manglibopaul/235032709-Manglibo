@@ -7,7 +7,6 @@
 </head>
 <body>
 
-<ol>
 
 <li>
     <h3>Introduce Yourself</h3>
@@ -182,7 +181,6 @@
     </ul>
 </li>
 
-</ol>
 
 </body>
 </html>
